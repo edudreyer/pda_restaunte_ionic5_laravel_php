@@ -1,5 +1,6 @@
 {
   "name": "Pedidos",
   "integrations": {},
-  "type": "angular"
+  "type": "angular",
+  "id": "40e32daf"
 }
